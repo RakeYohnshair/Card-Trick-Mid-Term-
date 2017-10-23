@@ -34,6 +34,6 @@ int splitdeck () {
 
 
 int main () {
-  cout << "xyz" << endl;
+  cout << "splitdeck" << endl;
 
 }
