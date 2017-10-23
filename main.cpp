@@ -19,5 +19,5 @@ int main () {
   cout << cards[RandIndex] << endl;
   }
   cout << "Pick a card and remember it" ;
-    return srand;
+    return 0;
 }
